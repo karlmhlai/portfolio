@@ -100,7 +100,11 @@ Electrical Engineering, BEng, HKU  (2015 - 2019)
 8. Distance Protection ([VTS](https://github.com/karlmhlai/portfolio/blob/c87a30ac86aac60707d991192a3e5bc8088e5b08/assets/doc/VTS.pdf), [SOTF](https://github.com/karlmhlai/portfolio/blob/c87a30ac86aac60707d991192a3e5bc8088e5b08/assets/doc/YUE%20-%20LCE%202%20Fault.pdf), [Scheme](https://github.com/karlmhlai/portfolio/blob/1efd3ccf886cc5fc4f27bb82c3b0da580b5a0307/assets/doc/Distance%20Scheme.pdf))
 9. [Transformer Protection](https://github.com/karlmhlai/portfolio/blob/1efd3ccf886cc5fc4f27bb82c3b0da580b5a0307/assets/doc/Tx%20Protection_Combined_MHL_v2.pdf)
 10. [From LTF to HZBBZ](https://github.com/karlmhlai/portfolio/blob/66ccb415b661fdd7b3d7ee71ab74604a6da22d49/assets/doc/HZBBZ_LTF.pdf)
-  
+
+### Contact
+- Linkedin: https://www.linkedin.com/in/karlmhlai/
+- Phone: (+852) 2678 7137
+
 ### Quotes
 - Movie: The Master (2015)
 - “Martial arts schools fail to nurture true talent because they don't impart genuine skills.”
