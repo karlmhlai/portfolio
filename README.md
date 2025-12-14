@@ -109,6 +109,7 @@ Topics to be Included in the Future -
 3. Generator Protection 
 4. System Protection - Out-of-Step, UFLS
 5. [HVDC Protection](https://github.com/karlmhlai/portfolio/blob/main/assets/doc/Comparison%20on%20LCC%20and%20MMC%20HVDC%20Protection%20Design.pdf)
+6. Advanced Topics - Synchrophasor, Incremental, Travelling Wave Solutions
 
 #### ELEC4142 Power System Protection and Switchgear
 Transformer Protection (2025)
@@ -116,6 +117,36 @@ Transformer Protection (2025)
 - [Transformer Protection - Example](https://github.com/karlmhlai/portfolio/blob/main/assets/doc/ELEC4142%20Transformer%20Protection%20Example.pdf)
 - [Transformer Protection - Assignment 2025](https://github.com/karlmhlai/portfolio/blob/main/assets/doc/ELEC4142%20Transformer%20Protection%20-%20Assignment.pdf)
 - [Theory of Transformer](https://github.com/karlmhlai/portfolio/blob/main/assets/doc/Theory%20of%20Transformer_v3.pdf)
+
+## Topics to be Developed for the Switchgear Part in the Future - 
+Fundamentals of High Voltage Transmission
+- Surge impedance and traveling waves, Wave reflection/refraction at discontinuities, lattice diagram, T-junction, non-linear resistor termination
+Insulation Coordination, Breakdown & Lightning
+- Insulation coordination (BIL, SIL, chopped wave withstand, sparkover)
+- Breakdown mechanisms (gas, liquid, solid, vacuum; Townsend criteria; disruptive critical voltage)
+- Lightning mechanism (leader–streamer process, direct vs. induced surges, impulse waveform)
+- Surge arrester technologies (spark gap, magnetic blow-out, MOV)
+High Voltage Testing and Generation Techniques
+- Schering bridge, tangent delta, dielectric loss measurement
+- Partial discharge (PD) measurement
+- Voltage doubler, Cockcroft–Walton multiplier, impulse generator
+- Series resonance HVAC generator
+Switchgear & Circuit Breaker Design
+- Circuit breaker Operating mechanisms (spring, hydraulic, pneumatic, motorized)
+- Self-blast vs. puffer-type CBs
+- Contact design considerations
+- Maximum permissible continuous current rating
+- Tripping circuit and Closing circuit
+- Interlock systems
+- Gas zones (SF₆ compartments, monitoring, leakage detection) and PTW / SFT Requirement
+- Isolators (disconnect switches for visible isolation) vs Earthing requirements (earthing switches, safety grounding procedures)
+Switching Transients in Power Systems
+- Inductive load switching
+- Capacitive load switching
+- Out-of-phase switching
+- Restrike voltage calculation (TRV, RRRV)
+- Switching resistors for transient mitigation
+- HVDC Switching
 
 ### Contact
 - Linkedin: https://www.linkedin.com/in/karlmhlai/
