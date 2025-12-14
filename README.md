@@ -74,6 +74,8 @@ Electrical Engineering, BEng, HKU  (2015 - 2019)
 - [Sliding Mode Control](https://github.com/karlmhlai/portfolio/blob/ad77abbabe7fab6c43fa8d2665996c2ad84b831f/assets/doc/New%20Robust%20Sliding%20Mode%20Controller%20-%20Karl.pdf)
 - [Dynamics and Vibration](https://github.com/karlmhlai/portfolio/blob/ad77abbabe7fab6c43fa8d2665996c2ad84b831f/assets/doc/Dynamics%20and%20Vibration.pdf) as a High Diploma Course on 2022-2023
 - [Constrained Optimization](https://github.com/karlmhlai/portfolio/blob/c000c476f02b189bb0f7cc09e675af883be477e6/assets/doc/Chapter%2012%20Theory%20of%20Constrained%20Optimization.pdf)
+- [Challenge of ILOC Protection in High Density Load and Renewable](https://github.com/karlmhlai/portfolio/blob/main/assets/doc/Challenge%20in%20ILOC%20Protection%20Design%20and%20Testing%20with%20Renewable%20in%20High%20Utilization%20Grid.pdf)
+- [Survey of Inertia Estimation Algorithm](https://github.com/karlmhlai/portfolio/blob/main/assets/doc/A%20Survey%20on%20Inertia%20Estimation%20Algorithm%20for%20Frequency%20Control%20and%20a%20KF%20Approach%20(2).pdf)
 
 #### Advanced Topics in Overhead Line Designs (A course designed for BENG student in 2022-2023)
 1. [Introduction to Overhead Lines](https://github.com/karlmhlai/portfolio/blob/3c9d7a01e5a9506e42af662e9d448abdc32989d2/assets/doc/01%20Introduction%20to%20OHL.pdf)
@@ -100,6 +102,20 @@ Electrical Engineering, BEng, HKU  (2015 - 2019)
 8. Distance Protection ([VTS](https://github.com/karlmhlai/portfolio/blob/c87a30ac86aac60707d991192a3e5bc8088e5b08/assets/doc/VTS.pdf), [SOTF](https://github.com/karlmhlai/portfolio/blob/c87a30ac86aac60707d991192a3e5bc8088e5b08/assets/doc/YUE%20-%20LCE%202%20Fault.pdf), [Scheme](https://github.com/karlmhlai/portfolio/blob/1efd3ccf886cc5fc4f27bb82c3b0da580b5a0307/assets/doc/Distance%20Scheme.pdf))
 9. [Transformer Protection](https://github.com/karlmhlai/portfolio/blob/1efd3ccf886cc5fc4f27bb82c3b0da580b5a0307/assets/doc/Tx%20Protection_Combined_MHL_v2.pdf)
 10. [From LTF to HZBBZ](https://github.com/karlmhlai/portfolio/blob/66ccb415b661fdd7b3d7ee71ab74604a6da22d49/assets/doc/HZBBZ_LTF.pdf)
+
+Topics to be Included in the Future -
+1. Introduction - DC Relays and Trip Circuit
+2. Capacitor, Reactor and FACTs Device Protection 
+3. Generator Protection 
+4. System Protection - Out-of-Step, UFLS
+5. [HVDC Protection](https://github.com/karlmhlai/portfolio/blob/main/assets/doc/Comparison%20on%20LCC%20and%20MMC%20HVDC%20Protection%20Design.pdf)
+
+#### ELEC4142 Power System Protection and Switchgear
+Transformer Protection (2025)
+- [Transformer Protection](https://github.com/karlmhlai/portfolio/blob/main/assets/doc/ELEC4142%20Transformer%20Protection%20Notes.pdf)
+- [Transformer Protection - Example](https://github.com/karlmhlai/portfolio/blob/main/assets/doc/ELEC4142%20Transformer%20Protection%20Example.pdf)
+- [Transformer Protection - Assignment 2025](https://github.com/karlmhlai/portfolio/blob/main/assets/doc/ELEC4142%20Transformer%20Protection%20-%20Assignment.pdf)
+- [Theory of Transformer](https://github.com/karlmhlai/portfolio/blob/main/assets/doc/Theory%20of%20Transformer_v3.pdf)
 
 ### Contact
 - Linkedin: https://www.linkedin.com/in/karlmhlai/
