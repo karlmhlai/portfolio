@@ -119,22 +119,22 @@ Transformer Protection (2025)
 - [Theory of Transformer](https://github.com/karlmhlai/portfolio/blob/main/assets/doc/Theory%20of%20Transformer_v3.pdf)
 
 ### Topics to be Developed for the Switchgear Part in the Future - 
-####Fundamentals of High Voltage Transmission
+#### Fundamentals of High Voltage Transmission
 - Surge impedance and traveling waves, Wave reflection/refraction at discontinuities, lattice diagram, T-junction, non-linear resistor termination
 
-####Insulation Coordination, Breakdown & Lightning
+#### Insulation Coordination, Breakdown & Lightning
 - Insulation coordination (BIL, SIL, chopped wave withstand, sparkover)
 - Breakdown mechanisms (gas, liquid, solid, vacuum; Townsend criteria; disruptive critical voltage)
 - Lightning mechanism (leader–streamer process, direct vs. induced surges, impulse waveform)
 - Surge arrester technologies (spark gap, magnetic blow-out, MOV)
 
-####High Voltage Testing and Generation Techniques
+#### High Voltage Testing and Generation Techniques
 - Schering bridge, tangent delta, dielectric loss measurement
 - Partial discharge (PD) measurement
 - Voltage doubler, Cockcroft–Walton multiplier, impulse generator
 - Series resonance HVAC generator
 
-####Switchgear & Circuit Breaker Design
+#### Switchgear & Circuit Breaker Design
 - Circuit breaker Operating mechanisms (spring, hydraulic, pneumatic, motorized)
 - Self-blast vs. puffer-type CBs
 - Contact design considerations
@@ -144,7 +144,7 @@ Transformer Protection (2025)
 - Gas zones (SF₆ compartments, monitoring, leakage detection) and PTW / SFT Requirement
 - Isolators (disconnect switches for visible isolation) vs Earthing requirements (earthing switches, safety grounding procedures)
 
-####Switching Transients in Power Systems
+#### Switching Transients in Power Systems
 - Inductive load switching
 - Capacitive load switching
 - Out-of-phase switching
