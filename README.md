@@ -110,6 +110,7 @@ Topics to be Included in the Future -
 4. System Protection - Out-of-Step, UFLS
 5. [HVDC Protection](https://github.com/karlmhlai/portfolio/blob/main/assets/doc/Comparison%20on%20LCC%20and%20MMC%20HVDC%20Protection%20Design.pdf)
 6. Advanced Topics - Synchrophasor, Incremental, Travelling Wave Solutions
+7. Advanced Topics - Effect of GFL and GFM in IBRs for Equipment and System Protection
 
 #### ELEC4142 Power System Protection and Switchgear
 Transformer Protection (2025)
